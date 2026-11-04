@@ -30,7 +30,7 @@ Experiência educativa interativa de **Saúde e Segurança do Trabalho (SST)** d
   - 🌱 **Nível 1 — Primeiro olhar:** 3 riscos com pistas diretas e destaque visual pulsante.
   - 🔎 **Nível 2 — Olhar atento:** 4 novos detalhes do ambiente com pistas orientativas.
   - ⚡ **Nível 3 — Olhar de especialista:** 5 riscos combinando aprendizados anteriores com estímulo à reflexão preventiva.
-- **38 Riscos Ilustrados em SVG com Transformação Visual:** ao tocar em um risco, o cenário se corrige imediatamente e exibe uma orientação prática de prevenção.
+- **38 Riscos Ilustrados em SVG com Aparência 3D e Transformação Visual:** objetos com faces, iluminação e sombras que simulam profundidade; ao tocar em um risco, o cenário se corrige imediatamente e exibe uma orientação prática de prevenção.
 - **Modo de Ampliação (`⊕ Ampliar objetos`):** zoom dedicado (`160%` em desktop / `180%` no celular) com rolagem horizontal suave para observar detalhes sem esforço.
 - **Botão `Ⅱ Fui chamado!`:** pausa imediata pensada para salas de espera de clínicas ocupacionais e pausas rápidas no expediente.
 - **Privacidade Total (LGPD):** sem cadastro, sem coleta de dados pessoais e sem cookies externos — o progresso fica salvo apenas no `localStorage` do navegador do usuário.
