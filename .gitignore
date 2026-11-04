@@ -1,0 +1,33 @@
+# Logs e artefatos temporários de execução/teste
+*.log
+browser-setup.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambientes e pacotes locais (caso utilizados para testes ou ferramentas auxiliares)
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.playwright-cli/
+playwright-report/
+test-results/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Pastas temporárias
+tmp/
+temp/
+Unselected files/
